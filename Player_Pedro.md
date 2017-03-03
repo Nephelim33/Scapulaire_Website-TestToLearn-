@@ -5,8 +5,8 @@
   </head>
   <body>
     <h1>Pedro</h1>
-      <p><strong>Attaquant</strong></p>
       <a href="http://www.hostingpics.net/viewer.php?id=491514scapulaireicone.png"><img src="http://img4.hostingpics.net/thumbs/mini_491514scapulaireicone.png" alt="Logo du club" /></a>
+      <p><strong>Attaquant</strong></p>
       <p>Matchs joués:273</p>
       <p>Buts:167</p>
       <p>Passes décisives:96</p></br></br>
