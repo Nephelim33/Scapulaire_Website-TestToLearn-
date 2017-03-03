@@ -13,7 +13,7 @@ Website created to train my dev skills
 		<p><strong>Les attaquants</strong></p>
 		<ul>
 			<li><a href="https://github.com/Nephelim33/Scapulaire_Website-TestToLearn-/blob/master/Player_Le-Badigeonneur.md" title="Il aime le boudin!">Le Badigeonneur</a></li>
-			<li><a href="Joueurs/Pedro.html" title="Visca el Barça!">Pedro</a></li>
+			<li><a href="https://github.com/Nephelim33/Scapulaire_Website-TestToLearn-/blob/master/Player_Pedro.md" title="Visca el Barça!">Pedro</a></li>
 			<li>Dhorassoo</li>
 			<li>Vince</li>
 		</ul>
