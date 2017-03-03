@@ -4,7 +4,7 @@
     <title>The Boss</title>
   </head>
   <body>
-    <h1>The_Boss</h1>
+    <h1>The Boss</h1>
       <a href="http://www.hostingpics.net/viewer.php?id=491514scapulaireicone.png"><img src="http://img4.hostingpics.net/thumbs/mini_491514scapulaireicone.png" alt="Logo du club" /></a></br></br>
       <p><strong>Milieu de Terrain</strong></p>
       		  <p>Matchs joués: 7</p>
