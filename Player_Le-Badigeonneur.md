@@ -10,6 +10,8 @@
       		  <p>Matchs joués:172</p>
 		  <p>Buts:96</p>
 		  <p>Passes Décisives:53</p>
+		  <p>Note Globale Pro:90</p>
+		  <p>Note Moyenne par Match:8.0</p>
 		  </br>
 		<p><a href="https://github.com/Nephelim33/Scapulaire_Website-TestToLearn-/blob/master/Our%20players.md">Retour vers la liste des joueurs</a></p>
 		<p><a href="https://github.com/Nephelim33/Scapulaire_Website-TestToLearn-/blob/master/First_Page.md">Retour vers la page d'accueil</a></p>
