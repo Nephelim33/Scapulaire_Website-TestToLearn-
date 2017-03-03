@@ -25,6 +25,6 @@ Website created to train my dev skills
 			<li>Monsieur Z</li>
 			<li>The Boss</li>
 		</ul>
-		<p><a href="Mon%20site.html">Retour vers la page d'accueil</a></p>
+		<p><a href="https://github.com/Nephelim33/Scapulaire_Website-TestToLearn-/blob/master/First_Page.mdl">Retour vers la page d'accueil</a></p>
 	</body>
 </html>
