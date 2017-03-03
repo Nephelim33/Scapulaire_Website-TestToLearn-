@@ -1,11 +1,11 @@
-<!DOCTYPE html>
+<html>
   <head>
     <meta charset="UTF-8" />
     <title>Le_Badigeonneur</title>
   </head>
   <body>
     <h1>Le Badigeonneur</h1>
-      <a href="http://www.hostingpics.net/viewer.php?id=491514scapulaireicone.png"><img src="http://img4.hostingpics.net/thumbs/mini_491514scapulaireicone.png" alt="Logo du club" /></a></ br></ br>
+      <a href="http://www.hostingpics.net/viewer.php?id=491514scapulaireicone.png"><img src="http://img4.hostingpics.net/thumbs/mini_491514scapulaireicone.png" alt="Logo du club" /></a></br></br>
       <p><strong>Attaquant</strong></p>
       <p>Taille:188cm</p>
 		  <p>Poids:80kg</p>
