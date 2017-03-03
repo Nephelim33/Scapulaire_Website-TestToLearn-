@@ -16,6 +16,6 @@ Website created to train my dev skills
 				<li>Savoir se placer sur le terrain</li>
 				<li>Être passionné par le Football</li>
 			</ol>
-		<p><a href="Nos Joueurs.html" title="Ils ont la classe!">Nos Joueurs</a></p>
+		<p><a href="https://github.com/Nephelim33/Scapulaire_Website-TestToLearn-/blob/master/Our%20players.md" title="Ils ont la classe!">Nos Joueurs</a></p>
 	</body>
 </html>
