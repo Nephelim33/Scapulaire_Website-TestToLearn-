@@ -4,8 +4,8 @@
     <title>Stats du club</title>
   </head>
   <body>
-    <h1>Stats du club</h1>
     <a href="http://www.hostingpics.net/viewer.php?id=491514scapulaireicone.png"><img src="http://img4.hostingpics.net/thumbs/mini_491514scapulaireicone.png" alt="Logo du club" /></a>
+    <h1>Stats du club</h1>
     <p>Victoires: 107</p>
     <p>Matchs Nuls: 56</p>
     <p>Défaites: 129</p>
