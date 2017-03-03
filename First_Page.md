@@ -10,7 +10,7 @@ Website created to train my dev skills
 		<h1>Scapulaire Football Club</h1>
 		<h2>Club Pro depuis 2015</h2>
 	  <a href="http://www.hostingpics.net/viewer.php?id=491514scapulaireicone.png"><img src="http://img4.hostingpics.net/thumbs/mini_491514scapulaireicone.png" alt="Logo du club" /></a>
-			<p><strong>Bienvenue!<strong></br>Dans ce club, nous avons des valeurs simples, qui sont:</strong>
+			<p><strong>Bienvenue!</strong></br>Dans ce club, nous avons des valeurs simples, qui sont:
       <ol>
 				<li>Jouer collectif</li>
 				<li>Savoir se placer sur le terrain</li>
