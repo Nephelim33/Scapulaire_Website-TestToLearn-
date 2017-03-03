@@ -12,7 +12,7 @@ Website created to train my dev skills
 		<h2>Voici la liste des joueurs du Scapulaire Football Club</h2>
 		<p><strong>Les attaquants</strong></p>
 		<ul>
-			<li><a href="Joueurs/Le Badigeonneur.html" title="Il aime le boudin!">Le Badigeonneur</a></li>
+			<li><a href="https://github.com/Nephelim33/Scapulaire_Website-TestToLearn-/blob/master/Player_Le-Badigeonneur.md" title="Il aime le boudin!">Le Badigeonneur</a></li>
 			<li><a href="Joueurs/Pedro.html" title="Visca el Barça!">Pedro</a></li>
 			<li>Dhorassoo</li>
 			<li>Vince</li>
