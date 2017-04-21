@@ -4,7 +4,7 @@ Website created to train my dev skills
 <html>
 	<head>
 		<meta charset="UTF-8" />
-		<link rel="stylesheet" href:"style.css" />
+		<link rel="stylesheet" href:"https://github.com/Nephelim33/Scapulaire_Website-TestToLearn-/blob/master/style.css" />
 		<title> Scapulaire FC </title>
 	</head>
 	<body>
