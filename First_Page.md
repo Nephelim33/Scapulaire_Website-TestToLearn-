@@ -4,6 +4,7 @@ Website created to train my dev skills
 <html>
 	<head>
 		<meta charset="UTF-8" />
+		<link rel="stylesheet" href:"style.css" />
 		<title> Scapulaire FC </title>
 	</head>
 	<body>
